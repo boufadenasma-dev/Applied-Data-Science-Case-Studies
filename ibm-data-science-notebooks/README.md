@@ -21,7 +21,7 @@ My notebooks from the IBM Data Science Certificate Professional - Coursera
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boufadenasma-dev/ibm-data-science-notebooks/main?filepath=6.Capstone_labIBM_jupyter_launch_site_location.ipynb)
 
 ## 📁 Structure
- -`notebooks/` : My Jupyter notebooks for Capstone Project
+- My Jupyter notebooks for Capstone Project SpaceX
 - `README.md` : file
   
 ## 🚀 Objectives
